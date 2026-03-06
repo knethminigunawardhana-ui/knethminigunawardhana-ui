@@ -1,16 +1,21 @@
-## Hi there 👋
+# Kaweesha Nethmini
 
-<!--
-**knethminigunawardhana-ui/knethminigunawardhana-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Age:** 22
 
-Here are some ideas to get you started:
+**Education:** Software Engineering Degree Program
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm a software engineering student passionate about building innovative solutions and learning new technologies.
+
+## About Me
+- 🎓 Currently pursuing a Software Engineering degree
+- 💻 Passionate about coding and software development
+- 🌱 Always eager to learn and grow in the tech field
+- 🤝 Open to collaboration and contributing to open-source projects
+
+## Skills
+- Programming Languages
+- Software Development
+- Problem Solving
+
+## Contact
+Feel free to reach out to me for collaboration or discussions about software engineering and technology!
